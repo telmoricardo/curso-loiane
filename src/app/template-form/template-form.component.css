@@ -1,0 +1,6 @@
+/* .ng-invalid.ng-touched:not(form){
+    border: 1px solid red;
+} */
+.alert-danger{
+    margin-top: 0.2rem;
+}
